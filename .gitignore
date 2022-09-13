@@ -1,0 +1,17 @@
+# my options 
+data/
+!/data/README.md
+experiments/
+!experiments/README.md
+!experiments/Example
+datasets/
+
+# tools/ablation
+# tools/visualization
+
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
